@@ -73,3 +73,35 @@ Footer
 paragraph: Made with ♥ in Budapest ©2018 | Icons by Becris (CC 3.0 BY)
 link to artist: http://www.flaticon.com/authors/becris
 link to license: https://creativecommons.org/licenses/by/3.0/
+
+
+Képek:
+
+
+background pattern: https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png
+cover photo: https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg
+ceremony location: https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-ceremony.png
+photoshoot location: https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-photoshoot.png
+party location: https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-party.png
+gifts: https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-gifts.png
+favicon: https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-favicon.png
+
+
+Betűtípusok:
+
+
+Great Vibes
+Libre Baskerville
+Muli
+
+
+Színek:
+
+
+default text color: #444349 (grey)
+alternate text color: #d2ba87 (gold)
+header tagline and date color: hsla(0,0%,100%,.9);
+dark background: hsla(100,0%,0%,.6);
+link color: #bd806e
+link color on hover: #eda087
+footer background color: #606060
