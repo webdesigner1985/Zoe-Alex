@@ -1,0 +1,50 @@
+*{
+    box-sizing:border-box;
+}
+
+/*blokk szintű elemek*/
+h1, h2, h3, ul, li, p, img{
+    margin-bottom:1rem;
+}
+
+section, 
+.location, 
+.program,
+.gifts,
+.faq,
+.contact{
+    width:95%;
+    margin: 1.5rem auto;
+    padding:1rem;
+    text-align:center;
+}
+
+body{
+    background: url('https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png')repeat center;
+    font-family:'Libre Baskerville', cursive;
+    font-size:1.125rem;
+    line-height:1.5;
+    color:rgb(68, 67, 73);
+}
+
+a{
+    text-decoration:none;
+    color:#bd806e;
+}
+
+a:hover{
+    color:#eda087;
+    transition:color .15s ease-in-out;
+}
+
+h1, h2{
+    font-family:"Great Vibes", cursive;
+}
+
+h2{
+    font-size:3rem;
+}
+
+h3{
+    font-size:1.5rem;
+}
