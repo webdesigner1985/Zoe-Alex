@@ -30,6 +30,10 @@ body{
     color:rgb(68, 67, 73);
 }
 
+ul{
+  list-style:none;
+}
+
 a{
     text-decoration:none;
     color:#bd806e;
@@ -125,11 +129,50 @@ hr{
   vertical-align:middle;
 }
 
+.blurp img{
+  height:10rem;
+}
+
+.blurp h3{
+  font-weight:700;
+}
+
+.blurp{
+  font-family:'Muli', Arial;
+}
+
+.blurp::after{
+  content: "";
+  display:block;
+  height:.188rem;
+  width:25vw;
+  margin:1.5rem auto;
+  background-color: rgb(68, 67, 73);
+}
+
+/*Program Styles*/
+
+.program{
+  background-color:hsla(100,0%,0%,.6);
+  width:100vw;
+  text-align:left;
+  color:rgb(210, 187, 137);
+  font-family:'Muli', cursive;
+}
+
+.program h2{
+  text-align:center;
+  font-family:'Great Vibes', cursive;
+}
 
 
+.program p{
+  font-style:italic;
+}
 
-
-
+.program ul{
+  letter-spacing:.025rem
+}
 
 
 
