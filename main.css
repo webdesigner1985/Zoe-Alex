@@ -249,7 +249,8 @@ line-height:1.5;
 
 @media (min-width: 768px){
 .cover{
-  background:url('https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg') no-repeat, center/cover;
+  background:url('https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg') no-repeat, center;
+  background-size:cover;
 }
 }
 
